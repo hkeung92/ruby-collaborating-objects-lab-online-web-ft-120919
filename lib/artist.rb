@@ -30,6 +30,6 @@ class Artist
   end
   
   def print 
-    
+    self.each {|p| 
   end
 end
