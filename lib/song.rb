@@ -10,4 +10,6 @@ class Song
   def self.all 
     @@all 
   end
+  
+  def song.new_
 end
