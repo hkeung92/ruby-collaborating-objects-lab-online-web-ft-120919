@@ -10,4 +10,6 @@ class Artist
   def self.all 
     @@all 
   end
+  
+  def self.add_song
 end
