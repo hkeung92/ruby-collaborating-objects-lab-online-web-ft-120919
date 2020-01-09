@@ -28,4 +28,8 @@ class Artist
       self.new(name)
     end
   end
+  
+  def print 
+    
+  end
 end
